@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment & secrets
+config.ini
+.env
+
+# Dependency files (generated)
+pip-wheel-metadata/
+*.egg-info/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Test cache
+.pytest_cache/
